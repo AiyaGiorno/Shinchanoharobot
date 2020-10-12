@@ -11,6 +11,8 @@ The Support group can be reached out to at [ShinChan Support](https://t.me/sinch
 
 Ica channel as at [indian creators alliance](https://t.me/indiancreatorsalliance) 
 
+# bot work done by [Rajkumar](https://github.com/Rajkumar-27)
+
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
