@@ -203,11 +203,11 @@ For starters click on this button
 
 
 ## Credits
-The bot is based on the original work done by [Rajkumar](https://github.com/Rajkumar-27)
+The bot is based on the [Shinchanrobot](https://github.com/Uday1821/Shinchanoharobot)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
 
 Any other authorship/credits can be seen through the commits.
 
-Creadit For [Shinchanoharobot](https://github.com/Rajkumar-27/cutiepii-robot) .
+Creadit For [Saitamarobot](https://github.com/AnimeKaizoku/SaitamaRobot) .
