@@ -11,8 +11,6 @@ Can be found on telegram as [Shinchanoharobot](https://t.me/Shinchanoharobot).
 The Support group can be reached out to at [ShinChan Support](https://t.me/sinchansupportgroup), where you can ask for help about [Shinchanoharobot](https://t.me/Shinchanoharobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 Ica channel as at [indian creators alliance](https://t.me/indiancreatorsalliance)  
-Bot Making Helping  [Rajkumar](https://github.com/Rajkumar-27)
-
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
@@ -211,3 +209,5 @@ Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (wil
 Any other authorship/credits can be seen through the commits.
 
 Creadit For [Saitamarobot](https://github.com/AnimeKaizoku/SaitamaRobot) .
+Helping  [Rajkumar](https://github.com/Rajkumar-27)
+
